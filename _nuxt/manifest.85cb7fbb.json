@@ -1,0 +1,53 @@
+{
+  "name": "庫存管理系統",
+  "short_name": "庫存管理系統",
+  "description": "包含讀取、新增、編輯、刪除、圖表、匯出功能   使用前端資料庫`IndexedDB`",
+  "icons": [
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_64x64.7c047d.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_120x120.7c047d.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_144x144.7c047d.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_152x152.7c047d.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_192x192.7c047d.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_384x384.7c047d.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stock_sample/_nuxt/icons/icon_512x512.7c047d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/stock_sample/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "zh_TW"
+}
